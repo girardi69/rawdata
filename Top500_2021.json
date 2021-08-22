@@ -1,15 +1,35 @@
-{"Top500_21":
-  {
-    "Rank 2019": 1,
-    "Rank 2018": 1,
-    "Ragione Sociale": "FCA ITALY SPA",
-    "Valore della produzione 2019": 25153398,
-    "Valore della produzione 2018": 27794600,
-    "Utile 2019": -384219,
-    "Utile 2018": -1258899,
-    "Indebitamento finanziario netto 2019": -528882,
-    "Indebitamento finanziario netto 2018": -2002625,
-  }
+let FCA_ITALY_SPA =
+   { 
+        Rank: {
+            2019: 1,
+            2018: 1,
+            2017: 1
+        }
+        Valore_della_produzione: {
+            2019: 25153398,
+            2018: 27794600,
+            2017: 29382602
+        }
+        Utile: {
+            2019: -384219,
+            2018: -1258899,
+            2017: -672554
+        }
+        Indebitamento_finanziario_netto: {
+            2019: -528882,
+            2018: 2002625,
+            2017: 3995601
+        }
+   }
+
+console.log(FCA_ITALY_SPA.Rank[2017])
+console.log(FCA_ITALY_SPA.Valore_della_produzione[2017])
+console.log(FCA_ITALY_SPA.Utile[2017])
+console.log(FCA_ITALY_SPA.Indebitamento_finanziario_netto[2017])
+
+
+
+
   {
     "Rank 2019": 2,
     "Rank 2018": 2,
