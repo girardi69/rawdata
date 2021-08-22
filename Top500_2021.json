@@ -1,12 +1,13 @@
 {
   {
-    Rank 2019:
-    Rank 2018:
-    Ragione Sociale:
-    Valore della produzione 2019:
-    Valore della produzione 2018:
-    Utile 2019:
-    Utile 2018:
-    Indebitamento finanziario netto 2019:
-    Indebitamento finanziario netto 2018:
+    Rank 2019: 1;
+    Rank 2018: 1;
+    Ragione Sociale: FCA ITALY SPA;
+    Valore della produzione 2019: 25153398;
+    Valore della produzione 2018: 27794600;
+    Utile 2019: -384219;
+    Utile 2018: -1258899;
+    Indebitamento finanziario netto 2019: -528882;
+    Indebitamento finanziario netto 2018: -2002625;
+  };
 }
